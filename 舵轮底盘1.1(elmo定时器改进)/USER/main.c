@@ -11,7 +11,7 @@
 #include "mapan.h"
 #include "lj.h"
 
-
+//123git test
 //START 任务
 //设置任务优先级
 #define START_TASK_PRIO			10  ///开始任务的优先级为最低
